@@ -1,7 +1,6 @@
 # BER
 
-Add a short description here!
-
+FIRST thing from the OPE
 
 ## Description
 
